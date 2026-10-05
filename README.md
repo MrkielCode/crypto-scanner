@@ -1,4 +1,4 @@
-# 🚀 Binance Crypto Perpetual Pre-Pump Scanner
+#  Binance Crypto Perpetual Pre-Pump Scanner
 
 A Streamlit app that scans Binance USDⓈ-M USDT perpetual futures for coins
 showing early signs of a potential move — before the obvious, already-visible
